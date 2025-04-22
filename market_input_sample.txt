@@ -1,0 +1,5 @@
+load_saved_search = EMERALD LG (GD)
+size_range = 1.50:1.69
+colors = D,E,F,G,H,I
+clarities = IF,VVS1,VVS2
+token= YOUR_API_TOKEN_HERE  ; <--Replace with your actual token

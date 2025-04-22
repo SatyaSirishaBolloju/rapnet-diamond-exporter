@@ -1,0 +1,59 @@
+{
+    "additionalFilter": {
+        "fromRowNum": 0,
+        "toRowNum": 0,
+        "savedID": null,
+        "pageNumber": 0,
+        "recordsPerPage": 0,
+        "sortOptions": [
+            "%Rap"
+        ],
+        "savedSearch": {
+            "savedID": 261060,
+            "dateCreated": "",
+            "dateUpdated": "",
+            "accountID": "xyz", <-- "your_account_id"
+            "contactID": "xyz", <-- "your_contact_id"
+            "createdBy": "Haresh Shah"
+        },
+        "notification": {
+            "notificationID": null,
+            "sendNotifications": false,
+            "notificationType": null,
+            "sendDaily": true,
+            "sendImmediate": false
+        },
+        "projection": {
+            "include": [
+                "Source",
+                "Seller",
+                "Rating",
+                "Location",
+                "Shape",
+                "Size",
+                "Color",
+                "Clarity",
+                "Cut",
+                "Polish",
+                "Symmetry",
+                "Fluorescence",
+                "Lab",
+                "$/ct",
+                "%Rap",
+                "Total",
+                "Ratio",
+                "Media",
+                "Depth",
+                "Table",
+                "Measurements",
+                "Shade",
+                "Inclusion",
+                "Key To Symbols",
+                "Member Comment",
+                "HasGreenStar"
+            ],
+            "displayMode": "display"
+        }
+    },
+    "searchType": "Search"
+}
