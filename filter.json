@@ -12,9 +12,9 @@
             "savedID": 261060,
             "dateCreated": "",
             "dateUpdated": "",
-            "accountID": "xyz", <-- "your_account_id"
-            "contactID": "xyz", <-- "your_contact_id"
-            "createdBy": "Haresh Shah"
+            "accountID": "your_account_id", <-- "replace with your actual account id"
+            "contactID": "your_contact_id", <-- "replace with your actual contact id"
+            "createdBy": "xyz"
         },
         "notification": {
             "notificationID": null,
